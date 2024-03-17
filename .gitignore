@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+dags/__pycache__
+logs
+config
+.env
+Untitled.ipynb
